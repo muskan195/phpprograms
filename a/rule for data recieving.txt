@@ -1,0 +1,11 @@
+for data recieve----
+
+1--data can be recieved with  same data only.
+2--at the time of recieving method can only be in capital.
+3--use @$_before method and[] with element name after method name.
+
+
+
+
+
+ note-"jha p get h wha p post lgana h th  chng program=== for secure the data "

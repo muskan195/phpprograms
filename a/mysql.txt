@@ -1,0 +1,6 @@
+ ; // mysql is data base
+ ; //yha p hm mysql chlayenge r dalenge id pwd 
+ "- " ka mtlb h hm b.techa folder m entery kr chuke h
+ http://localhost/myadmin== for creating table.
+ here use varchar = for variale character mtlb hm varibles r character both use kr skte h hm
+users s jo hm type krayenge wo is table m ayega r is software p 
